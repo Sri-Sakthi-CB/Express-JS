@@ -29,8 +29,9 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/movies-app.git
-   cd movies-app
+   git clone https://github.com/Sri-Sakthi-CB/Movie-App.git
+   cd Movie-App
+
 
 2. Install the dependencies:
 
@@ -39,14 +40,16 @@
 
 3. Running the App: 
     To run the app in development mode, use the following command:
-
+   
+    ```bash
     npm run dev
 
-    The app will be available at http://localhost:3000.
+    The app will be available at http://localhost:8000.
 
 ## ScreenShots
 
 ![alt text](image-1.png)
+
 
 
 
