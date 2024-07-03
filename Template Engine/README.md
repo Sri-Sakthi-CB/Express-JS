@@ -1,4 +1,4 @@
-# Movies App
+# Template Engine (ejs)
 
 - In this Repository, Template Engine is practiced with proper routes, Controllers and Views Folder.
 - The Frontend is built using HTML, CSS which is Stored in "views" folder's ejs file. 
