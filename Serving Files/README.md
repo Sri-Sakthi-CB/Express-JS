@@ -43,11 +43,12 @@
     ```bash
     npm run dev
 
-    The app will be available at http://localhost:3000.
+    The app will be available at http://localhost:8000.
 
 ## ScreenShots
 
 ![alt text](image-1.png)
+
 
 
 
