@@ -1,6 +1,6 @@
 # Express-JS
 
-- Welcome to my Express.js repository. This repository contains various small projects and examples to help me improve my skills with Express.js, a minimal and flexible Node.js web application framework.
+- Welcome to my Express.js repository. This repository contains various small projects and examples that helped me improve my skills with Express.js, a minimal and flexible Node.js web application framework.
 - This repository is a collection of my projects and exercises that helps to understand the core concepts clearly in Express.js. The goal is to explore different functionalities and features of the framework through hands-on examples.
 
 ## Projects Include
